@@ -3,6 +3,7 @@
 ## Overview
 
 This repository contains the "Building a Magazine" project, developed as part of my FreeCodeCamp curriculum. The project aims to create a visually appealing and responsive magazine-style webpage using HTML and CSS.
+![Building a Magazine Preview](https://example.com/path-to-your-image.jpg)
 
 ## Features
 
@@ -29,7 +30,7 @@ To view the project locally:
    
 ## Live Demo
 
-You can view a live version of the project [here](https://yourusername.github.io/building-a-magazine/).
+You can view a live version of the project [here](https://mdkeum.github.io/Building_a_Magazine/).
 
 ## Contributing
 Feel free to fork the repository, make changes, and submit a pull request. Contributions are welcome!
